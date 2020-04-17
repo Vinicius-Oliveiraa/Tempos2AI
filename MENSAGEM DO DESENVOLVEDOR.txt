@@ -1,0 +1,4 @@
+Pra executar o aplicativo você precisará estar no PC
+e ter o JDK instalado.
+Segue o link para baixar o JDK:
+https://www.malavida.com/br/soft/java-jdk/download
